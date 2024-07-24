@@ -1,0 +1,19 @@
+table{
+    border: 1px solid rgb(228, 138, 247);
+    border-collapse: collapse;
+}
+td{  
+    border: 1px solid rgb(228, 138, 247);
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid rgb(228, 138, 247);
+    border-collapse: collapse;
+}
+body{
+    background:rgb(245, 187, 248) ;
+   color: rgb(181, 105, 252);
+}
+h1{
+    color: rgb(255, 6, 6);
+}
